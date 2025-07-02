@@ -1,0 +1,40 @@
+java TesteConsulta
+Dados da consulta p1:
+Data: 15/07/25
+Hora: 10:30:00
+Paciente: JoÃ£o Silva
+MÃ©dico: Dra. Maria
+Digite a data da consulta:
+Digite ano (1900-2025): 2024
+Digite mes (1-12): 12
+Digite dia (1-31): 31
+Digite a hora da consulta:
+Digite hora (0-23): 10
+Digite minuto (0-59): 45
+Digite segundo (0-59): 55
+Digite o nome do paciente: Melissa
+Digite o nome do mÃ©dico: Dr João
+
+Dados da consulta p2:
+Data: 31/12/24
+Hora: 10:45:55
+Paciente: Melissa
+MÃ©dico: Dr JoÆo
+
+Alterando dados da consulta p1:
+Digite ano (1900-2025): 2025
+Digite mes (1-12): 1
+Digite dia (1-31): 4
+Digite hora (0-23): 18
+Digite minuto (0-59): 30
+Digite segundo (0-59): 00
+Digite o nome do paciente: Laryssa
+Digite o nome do mÃ©dico: Dra Márcia
+
+Dados atualizados da consulta p1:
+Data: 04/01/25
+Hora: 18:30:00
+Paciente: Laryssa
+MÃ©dico: Dra M rcia
+
+Quantidade total de consultas agendadas: 2
